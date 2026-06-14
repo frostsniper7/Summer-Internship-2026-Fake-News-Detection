@@ -30,7 +30,3 @@ Accuracy: 99.71%
 ### Best Hyperparameters
 ```python
 {'C': 10, 'solver': 'liblinear'}
-
-Author
-
-Vamsi Jagannadh Dhenuvakonda
