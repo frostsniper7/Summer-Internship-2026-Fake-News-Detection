@@ -31,6 +31,6 @@ Accuracy: 99.71%
 ```python
 {'C': 10, 'solver': 'liblinear'}
 
-##Author
+Author
 
-###Vamsi Jagannadh Dhenuvakonda
+Vamsi Jagannadh Dhenuvakonda
